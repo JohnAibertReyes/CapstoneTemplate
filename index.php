@@ -112,7 +112,7 @@
                       for you
                     </h1>
                     <div>
-                      <a href="#listjobs">
+                      <a href="#listjobs"style="color: black;">
                         Read More
                       </a>
                     </div>
@@ -137,7 +137,7 @@
                       for you
                     </h1>
                     <div>
-                      <a href="#featuredjob">
+                      <a href="#featuredjob" style="color: black;">
                         Read More
                       </a>
                     </div>
@@ -162,7 +162,7 @@
                       for you
                     </h1>
                     <div>
-                      <a href="#developersquote">
+                      <a href="#developersquote"style="color: black;">
                         Read More
                       </a>
                     </div>
@@ -518,4 +518,5 @@
   <script src="js/bootstraps.js"></script>
 
 </body>
+
 </html>
